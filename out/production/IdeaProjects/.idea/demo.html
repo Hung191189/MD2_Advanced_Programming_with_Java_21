@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+
+</body>
+</html>
+<script>
+    let arr1 ="0 0 0 1 1"
+    let arr = arr1.split(" ")
+    console.log(arr)
+    let result = 1;
+    for(let i = 0; i < arr.length; i++) {
+        if(arr[i] != 0){
+            result = 0;
+        }
+        if(arr[i] != 1){
+            result -1;
+        }
+        if(arr[i] == arr[i+1]){
+            result++;
+        }
+    }
+
+    document.write(result)
+</script>

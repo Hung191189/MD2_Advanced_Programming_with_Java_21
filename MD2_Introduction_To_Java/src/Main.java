@@ -1,31 +1,29 @@
 // Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
 // then press Enter. You can now see whitespace characters in your code.
+import java.util.Arrays;
 import java.util.Scanner;
 public class Main {
+
     public static void main(String[] args) {
-////      System.out.println("Welcome to Java!");
-//        Scanner reader = new Scanner(System.in);
-//        System.out.print("Enter a number: ");
-//        int day = reader.nextInt();
-//        System.out.println("You entered: " + number);
-//        double x = 1.0;
-//        double y = 5.0;
-//        double z = x-- + (++y);
-//        System.out.println(z);
-//        System.out.println(x);
-//        System.out.println(y);
-//        switch (day) {
-//            case 1:
-//            case 2:
-//            case 3:
-//            case 4:
-//            case 5: System.out.println("Weekday"); break;
-//            case 0:
-//            case 6: System.out.println("Weekend");
+//        String s = "13.5 4456.23423423 723424.12 234234.1 534234.432";
+//        float x = 0f;
+//        System.out.println(solve(s,x));
+//    }
+//    public static float solve(String s, float x) {
+//        String[] arr = s.split("\\ ");
+//        float max = Math.abs(Float.parseFloat(arr[0])-x);
+//        float num = 0;
+//        // String numm ="";
+//        for(int i = 0; i < arr.length; i++) {
+//            if(Math.abs(Float.parseFloat(arr[i])-x) > max) {
+//                max = Math.abs(Float.parseFloat(arr[i])-x);
+//                num = Float.parseFloat(arr[i]);
+//                // numm = arr[i];
+//            }
 //        }
-                double x = 5;
-                int y = 2;
-                double   z = x / y;
-                System.out.println(z);
-            }
-        }
+//        return num;
+
+     String a ="26.4589123";
+        System.out.println(Math.abs(Double.parseDouble(a)));
+    }
+}

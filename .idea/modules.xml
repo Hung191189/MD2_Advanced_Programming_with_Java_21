@@ -3,10 +3,22 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MD2_Abstract_class_va_interface/MD2_Abstract_class_va_interface.iml" filepath="$PROJECT_DIR$/MD2_Abstract_class_va_interface/MD2_Abstract_class_va_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MD2_Automated_Testing _TDD/MD2_Automated_Testing _TDD.iml" filepath="$PROJECT_DIR$/MD2_Automated_Testing _TDD/MD2_Automated_Testing _TDD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MD2_Clean_Code_and_Refactoring/MD2_Clean_Code_and_Refactoring.iml" filepath="$PROJECT_DIR$/MD2_Clean_Code_and_Refactoring/MD2_Clean_Code_and_Refactoring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MD2_DSA/MD2_DSA.iml" filepath="$PROJECT_DIR$/MD2_DSA/MD2_DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MD2_DSAdemo/MD2_DSAdemo.iml" filepath="$PROJECT_DIR$/MD2_DSAdemo/MD2_DSAdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MD2_Ke_thua/src/MD2_He_cac_doi_tuong_hinh_hoc/MD2_He_cac_doi_tuong_hinh_hoc.iml" filepath="$PROJECT_DIR$/MD2_Ke_thua/src/MD2_He_cac_doi_tuong_hinh_hoc/MD2_He_cac_doi_tuong_hinh_hoc.iml" />
       <module fileurl="file://$PROJECT_DIR$/MD2_Introduction_To_Java/MD2_Introduction_To_Java.iml" filepath="$PROJECT_DIR$/MD2_Introduction_To_Java/MD2_Introduction_To_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MD2_Java_Collection_Framework/MD2_Java_Collection_Framework.iml" filepath="$PROJECT_DIR$/MD2_Java_Collection_Framework/MD2_Java_Collection_Framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MD2_Ke_thua/MD2_Ke_thua.iml" filepath="$PROJECT_DIR$/MD2_Ke_thua/MD2_Ke_thua.iml" />
       <module fileurl="file://$PROJECT_DIR$/MD2_Lop_va_doi_tuong_trong_java/MD2_Lop_va_doi_tuong_trong_java.iml" filepath="$PROJECT_DIR$/MD2_Lop_va_doi_tuong_trong_java/MD2_Lop_va_doi_tuong_trong_java.iml" />
       <module fileurl="file://$PROJECT_DIR$/MD2_Mang_va_phuong_thuc/MD2_Mang_va_phuong_thuc.iml" filepath="$PROJECT_DIR$/MD2_Mang_va_phuong_thuc/MD2_Mang_va_phuong_thuc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MD2_Ngoai_le_va_debug/MD2_Ngoai_le_va_debug.iml" filepath="$PROJECT_DIR$/MD2_Ngoai_le_va_debug/MD2_Ngoai_le_va_debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MD2_Stack_Queue/MD2_Stack_Queue.iml" filepath="$PROJECT_DIR$/MD2_Stack_Queue/MD2_Stack_Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MD2_Thuat_Toan_Tim_Kiem/MD2_Thuat_Toan_Tim_Kiem_Nhi_Phan.iml" filepath="$PROJECT_DIR$/MD2_Thuat_Toan_Tim_Kiem/MD2_Thuat_Toan_Tim_Kiem_Nhi_Phan.iml" />
       <module fileurl="file://$PROJECT_DIR$/MD2_Vong_lap_trong_java/MD2_Vong_lap_trong_java.iml" filepath="$PROJECT_DIR$/MD2_Vong_lap_trong_java/MD2_Vong_lap_trong_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apj-calculator/apj-calculator.iml" filepath="$PROJECT_DIR$/apj-calculator/apj-calculator.iml" />
     </modules>
   </component>
 </project>
