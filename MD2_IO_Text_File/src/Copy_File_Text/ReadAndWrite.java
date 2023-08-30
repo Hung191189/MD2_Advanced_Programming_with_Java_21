@@ -25,12 +25,14 @@ public class ReadAndWrite {
     }
     public void write(String filePath, List<String> strings){
         try {
-            FileWriter writer = new FileWriter(filePath);
+            FileWriter writer = new FileWriter(filePath, true);
             BufferedWriter bw = new BufferedWriter(writer);
             for (String string : strings) {
-                bw.write(string + "\n");
+                bw.write(string);
+                bw.newLine();
             }
             bw.close();
+
         }catch (IOException e){
             e.printStackTrace();
         }
